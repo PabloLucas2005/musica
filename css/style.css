@@ -10,6 +10,7 @@ body {
 #title {
     font-size: 1em;
     margin-bottom: 20px;
+    color:rgb(42, 50, 80)
 }
 #card > div {
     font-family: Arial, Helvetica, sans-serif;
@@ -27,7 +28,7 @@ main {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background-color: #c0c0c0;
+    background-color: #E8F1F2;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 5px 10px 20px 0px #33333370;
@@ -42,8 +43,9 @@ main {
     font-size: .85rem;
     font-style: italic;
 }
+
 #names > #track-artist {
-    font-weight: normal;
+    font-weight: bold;
 }
 .btns {
     display: flex;
@@ -79,7 +81,7 @@ section {
     font-family: "Montserrat", sans-serif;
     font-style: italic;
     text-align: end;
-    color: #222222;
+    color: #ffffff;
 }
 footer {
     display: flex;
