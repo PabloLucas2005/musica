@@ -20,6 +20,43 @@ let data = [
         file: "assets/Musicas/Rock.mp3",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
+        
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Back",
+        artist: "Pearl Jam",
+        file: "assets/Musicas/Back Pear Jam.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Alive",
+        artist: "Pearl Jam",
+        file: "assets/Musicas/Alive Pearl Jam.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Given to Fly",
+        artist: "Pearl Jam",
+        file: "assets/Musicas/Given To Fly Pearl Jam.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Wonderwall",
+        artist: "Oassis",
+        file: "assets/Musicas/WonderWall oassis.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Losing My Religion",
+        artist: "R.E.M",
+        file: "assets/Musicas/Losing My Religion  R.E.M.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
     {
         image: "assets/images/logo_9.jpg",
         title: "Take my breath",
