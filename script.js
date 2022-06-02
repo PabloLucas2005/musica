@@ -59,6 +59,13 @@ let data = [
     },
     {
         image: "assets/images/logo_9.jpg",
+        title: "Refrão de Bolero + Piano Bar",
+        artist: "Humberto Gessinger",
+        file: "assets/Musicas/Refrão de Bolero + Piano Bar.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+    {
+        image: "assets/images/logo_9.jpg",
         title: "Take my breath",
         artist: "The Weeknd",
         file: "assets/Musicas/The weeknd.mp3",
