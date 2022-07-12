@@ -64,35 +64,7 @@ let data = [
         file: "assets/Musicas/Refrão de Bolero + Piano Bar.mp4",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
-    {
-        image: "assets/images/logo_9.jpg",
-        title: "Take my breath",
-        artist: "The Weeknd",
-        file: "assets/Musicas/The weeknd.mp3",
-       background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
-    },
-    {
-        image: "assets/images/logo_9.jpg",
-        title: "First Class",
-        artist: "Jack Harlow",
-        file: "assets/Musicas/Jack Harlow - First Class.mp3",
-        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
-    },
-    {
-        image: "assets/images/logo_9.jpg",
-        title: "Thats what I want",
-        artist: "Lil Nas X",
-        file: "assets/Musicas/Lil Nas X - THATS WHAT I WANT.mp3",
-        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
-    },
-    {
-        image: "assets/images/logo_9.jpg",
-        title: "Whats is love",
-        artist: "Haddaway",
-        file: "assets/Musicas/What Is Love.mp3",
-        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
-    }
-    
+        
 ]
 
 localStorage.setItem("newData", JSON.stringify(data))
