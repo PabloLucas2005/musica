@@ -28,6 +28,22 @@ let data = [
         file: "assets/Musicas/Rock.mp3",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Highway to Hell ",
+        artist: "AC/DC",
+        file: "assets/Musicas/AC_DC - Highway to Hell.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Iron Man ",
+        artist: "Black Sabbath",
+        file: "assets/Musicas/Iron Man.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
         
     {
         image: "assets/images/logo_9.jpg",
@@ -44,6 +60,15 @@ let data = [
         file: "assets/Musicas/Alive Pearl Jam.mp4",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "The unforgiven",
+        artist: "Metallica",
+        file: "assets/Musicas/Metallica - The Unforgiven.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+    
     {
         image: "assets/images/logo_9.jpg",
         title: "Given to Fly",
@@ -51,6 +76,15 @@ let data = [
         file: "assets/Musicas/Given To Fly Pearl Jam.mp4",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "I Don't Want To Miss A Thing",
+        artist: "Aerosmith",
+        file: "assets/Musicas/I Don't Want To Miss A Thing - Aerosmith.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
     {
         image: "assets/images/logo_9.jpg",
         title: "Wonderwall",
@@ -68,6 +102,14 @@ let data = [
 
     {
         image: "assets/images/logo_9.jpg",
+        title: "What's going on",
+        artist: "4 Non Blonds",
+        file: "assets/Musicas/Whatsgoing.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
+    {
+        image: "assets/images/logo_9.jpg",
         title: "Stairway to Heaven",
         artist: "Led Zeppelin",
         file: "assets/Musicas/Stairway to Heaven.mp3",
@@ -79,6 +121,22 @@ let data = [
         title: "Refrão de Bolero + Piano Bar",
         artist: "Humberto Gessinger",
         file: "assets/Musicas/Refrão de Bolero + Piano Bar.mp4",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Anjos pra quem tem fé",
+        artist: "O Rappa",
+        file: "assets/Musicas/Anjos.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "A cera",
+        artist: "O surto",
+        file: "assets/Musicas/O Surto - A Cera.mp3",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
         
