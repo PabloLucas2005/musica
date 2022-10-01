@@ -15,6 +15,14 @@ let index = 0
 let data = [
     {
         image: "assets/images/logo_9.jpg",
+        title: "Carry on my wayward son",
+        artist: "Kansas",
+        file: "assets/Musicas/Carry on my wayward son.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
+    {
+        image: "assets/images/logo_9.jpg",
         title: "Back in Black",
         artist: "AC/DC",
         file: "assets/Musicas/Rock.mp3",
@@ -57,6 +65,15 @@ let data = [
         file: "assets/Musicas/Losing My Religion  R.E.M.mp4",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
+
+    {
+        image: "assets/images/logo_9.jpg",
+        title: "Stairway to Heaven",
+        artist: "Led Zeppelin",
+        file: "assets/Musicas/Stairway to Heaven.mp3",
+        background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
+    },
+
     {
         image: "assets/images/logo_9.jpg",
         title: "Refrão de Bolero + Piano Bar",
