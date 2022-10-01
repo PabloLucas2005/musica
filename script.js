@@ -104,7 +104,7 @@ let data = [
         image: "assets/images/logo_9.jpg",
         title: "What's going on",
         artist: "4 Non Blonds",
-        file: "assets/Musicas/Whatsgoing.mp3",
+        file: "assets/Musicas/whatsgoing.mp3",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
 
