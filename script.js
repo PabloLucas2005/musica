@@ -33,7 +33,7 @@ let data = [
         image: "assets/images/logo_9.jpg",
         title: "Highway to Hell ",
         artist: "AC/DC",
-        file: "assets/Musicas/AC_DC - Highway to Hell.mp3",
+        file: "assets/Musicas/AC_DC - Highway to Hell .mp3",
         background: "linear-gradient(35deg, #00326f 10%, #0077ef 35%, #00326f 100%)"
     },
 
